@@ -1,7 +1,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajkumar)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=surajkumar&left_color=green&right_color=red)
 
 <!--
 **surajkumar/surajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
