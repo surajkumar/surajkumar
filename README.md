@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajkumar)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajkumar)
 
 
 <!--
